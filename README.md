@@ -21,7 +21,8 @@ Benötigt:
 * NodeMCU ESP8266
 
 Anleitung:
-Ein Jumperkabel an D0, ein weisetes an A0. In die Enden der Kabel je eine Büroklammer stecken
+Ein Jumperkabel an D0, ein weisetes an A0. In die Enden der Kabel je eine Büroklammer stecken. 
+Die Büroklammern mit den Kabeln dann möglichst weit auseinenader in den Blumentopf stecken. Fertig.
 
 Eine Anleitung, wie man den NodeMCU Treiber Installiert und die Arduino IDE einrichtet, findest du hier:
 https://goo.gl/cpiykq
