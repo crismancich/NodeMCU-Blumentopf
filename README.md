@@ -1,7 +1,9 @@
 # NodeMCU-Blumentopf
 Messung der Bodenfeuchtigkeit in einem Blumentopf
 
-Das Programm entstand für einen Workshop im Rahmen der CODEWEEK HAMBURG 2017 
+Das Programm entstand für einen Workshop im Rahmen der CODEWEEK HAMBURG 2017
+
+![alt text](https://raw.githubusercontent.com/crismancich/NodeMCU-Blumentopf/master/nodemcu_blumentopf.png)
 
 Autoren
 Boris Crismancich <boris.crismancich@erminas.de>
